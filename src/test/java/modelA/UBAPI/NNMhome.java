@@ -17,6 +17,7 @@ public class NNMhome {
 	 
 	        // Launch Website
 	        driver.get("https://www.geeksforgeeks.org/");
+	        driver.quit();
 
 	}
 
